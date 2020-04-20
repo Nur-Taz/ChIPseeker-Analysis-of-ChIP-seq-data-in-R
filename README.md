@@ -4,9 +4,7 @@ ChIPseeker is a very useful R package for carrying out detailed analyses on Chro
 
 ### First 30-minute-session:
 
-Get used to reading and understanding documentation (manual) for R packages . 
-Learn how to create objects and variables in R . 
-Learn scripting syntax (conventions) used in the ChIPseeker package
+Get used to reading and understanding documentation (manual) for R packages . Learn how to create objects and variables in R . Learn scripting syntax (conventions) used in the ChIPseeker package
 
 ### Second 2-hour session:
 
