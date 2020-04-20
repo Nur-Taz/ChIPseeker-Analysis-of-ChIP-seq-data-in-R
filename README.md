@@ -10,7 +10,7 @@ Learn scripting syntax (conventions) used in the ChIPseeker package
 
 ### Second 2-hour session:
 
-Summarize & visualize important information about the peaks . 
-Annotate the peaks with gene ID as well as genomic location . 
-Carry out functional enrichment analysis on the peaks . 
+Summarize & visualize important information about the peaks<br/> 
+Annotate the peaks with gene ID as well as genomic location<br/>
+Carry out functional enrichment analysis on the peaks<br/>
 
