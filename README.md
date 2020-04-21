@@ -4,9 +4,15 @@ ChIPseeker is a very useful R package for carrying out detailed analyses on Chro
 
 ### First 30-minute-session:
 
-Get used to reading and understanding documentation (manual) for R packages<br/> 
-Learn how to create objects and variables in R<br/>
-Learn scripting syntax (conventions) used in the ChIPseeker package<br/>
+Overview of Bioconductor, R packages, and R documentation<br/> 
+* BioConductor: 
+  * Bioconductor provides tools for the analysis and comprehension of high-throughput genomic data. 
+  * Bioconductor uses the R statistical programming language, and is open source and open development. 
+  * It has two releases each year, and an active user community.
+  * All Bioconductor packages can be found here: https://bioconductor.org/packages/release/BiocViews.html#___Software
+* ChIPseeker documentation:https://bioconductor.org/packages/release/bioc/manuals/ChIPseeker/man/ChIPseeker.pdf 
+Foundational R <br/>
+Scripting syntax (conventions) used in the ChIPseeker package<br/>
 
 ### Second 2-hour session:
 
