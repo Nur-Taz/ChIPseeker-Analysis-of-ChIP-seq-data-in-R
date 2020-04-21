@@ -16,7 +16,7 @@ Carry out functional enrichment analysis on the peaks<br/>
 
 For further information, please refer to:<br/>
 G Yu, LG Wang, QY He. ChIPseeker: an R/Bioconductor package for ChIP peak annotation, comparison and visualization. Bioinformatics 2015, 31(14):2382-2383<br/>
-[Link to paper](http://dx.doi.org/10.1093/bioinformatics/btv145)
+[Link to paper](http://dx.doi.org/10.1093/bioinformatics/btv145)<br/>
 [Link to vignette](https://bioconductor.org/packages/release/bioc/vignettes/ChIPseeker/inst/doc/ChIPseeker.html#session-information)
 
 
