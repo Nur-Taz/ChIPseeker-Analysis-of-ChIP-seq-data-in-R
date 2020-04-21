@@ -6,11 +6,17 @@ ChIPseeker is a very useful R package for carrying out detailed analyses on Chro
 
 Get used to reading and understanding documentation (manual) for R packages<br/> 
 Learn how to create objects and variables in R<br/>
-Learn scripting syntax (conventions) used in the ChIPseeker package
+Learn scripting syntax (conventions) used in the ChIPseeker package<br/>
 
 ### Second 2-hour session:
 
 Summarize & visualize important information about the peaks<br/> 
 Annotate the peaks with gene ID as well as genomic location<br/>
 Carry out functional enrichment analysis on the peaks<br/>
+
+For further information, please refer to:<br/>
+G Yu, LG Wang, QY He. ChIPseeker: an R/Bioconductor package for ChIP peak annotation, comparison and visualization. Bioinformatics 2015, 31(14):2382-2383
+[](http://dx.doi.org/10.1093/bioinformatics/btv145)
+
+
 
