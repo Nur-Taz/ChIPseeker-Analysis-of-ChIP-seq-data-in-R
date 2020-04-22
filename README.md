@@ -2,7 +2,10 @@
 
 ChIPseeker is a very useful R package for carrying out detailed analyses on Chromatin Immunoprecipitation (ChIP)- sequencing data that lists the genomic intervals or "peaks" for a transcription factor binding to the genome. This hands-on session will have two parts:
 
-### First 30-minute-session: Foundations 
+### Class Orientation (10 mins)
+* Link to presentation slides: https://github.com/Nur-Taz/ChIPseeker-Analysis-of-ChIP-seq-data-in-R/blob/master/ChIPseeker_Rpackage.pdf
+
+### Foundations of R and BioConductor (30 mins)
 
 Understand the context of Chipseeker by taking a brief look at BioConductor, identifying documentation sources, and covering foundational R concepts and syntax.<br/> 
 * BioConductor: 
@@ -14,7 +17,7 @@ Understand the context of Chipseeker by taking a brief look at BioConductor, ide
 * Foundational R for Chipseeker: [click here to view the R markdown file](https://sauuyer.github.io/intro-to-r-for-seurat/r-intro-chipseeker.html) 
 
 
-### Second 2-hour session: Using ChIPseeker
+### Using ChIPseeker (2 hours)
 
 Summarize & visualize important information about the peaks<br/> 
 Annotate the peaks with gene ID as well as genomic location<br/>
