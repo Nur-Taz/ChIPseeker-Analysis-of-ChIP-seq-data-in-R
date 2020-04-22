@@ -5,6 +5,8 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 
 BiocManager::install(version = "3.10")
 
+BiocManager::install("ChIPseeker")
+
 BiocManager::install("TxDb.Hsapiens.UCSC.hg19.knownGene")
 
 BiocManager::install("clusterProfiler")
