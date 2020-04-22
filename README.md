@@ -26,5 +26,6 @@ G Yu, LG Wang, QY He. ChIPseeker: an R/Bioconductor package for ChIP peak annota
 [Link to vignette](https://bioconductor.org/packages/release/bioc/vignettes/ChIPseeker/inst/doc/ChIPseeker.html#session-information)
 
 * [R script for analysis](https://github.com/Nur-Taz/ChIPseeker-Analysis-of-ChIP-seq-data-in-R/blob/master/Analysis_example_ChIPseeker.R)
+* [PDF of analysis file with outputs](https://github.com/Nur-Taz/ChIPseeker-Analysis-of-ChIP-seq-data-in-R/blob/master/ChIPseeker_analysis_GSE108150.pdf)
 
 
