@@ -30,21 +30,21 @@ Carry out functional enrichment analysis on the peaks<br/>
 
 #### Genome wide annotation packages
 
-[Human: org.Hs.eg.db](https://bioconductor.org/packages/3.10/data/annotation/html/org.Hs.eg.db.html)
-[Mouse: org.Mm.eg.db](https://bioconductor.org/packages/3.10/data/annotation/html/org.Mm.eg.db.html)
+[Human: org.Hs.eg.db](https://bioconductor.org/packages/3.10/data/annotation/html/org.Hs.eg.db.html)<br/>
+[Mouse: org.Mm.eg.db](https://bioconductor.org/packages/3.10/data/annotation/html/org.Mm.eg.db.html)<br/>
 
 #### Annotation package for TxDb object
 
-[Human hg19 known genes](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Hsapiens.UCSC.hg19.knownGene.html)
-[Human hg19 linc RNAs](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts.html)
-[Mouse mm10 Ensembl genes](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Mmusculus.UCSC.mm10.ensGene.html)
-[Mouse mm10 known genes](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Mmusculus.UCSC.mm10.knownGene.html)
+[Human hg19 known genes](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Hsapiens.UCSC.hg19.knownGene.html)<br/>
+[Human hg19 linc RNAs](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts.html)<br/>
+[Mouse mm10 Ensembl genes](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Mmusculus.UCSC.mm10.ensGene.html)<br/>
+[Mouse mm10 known genes](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Mmusculus.UCSC.mm10.knownGene.html)<br/>
 
 #### Functional enrichment analysis
 
-[Disease Ontology](http://bioconductor.org/packages/DOSE)
-[Reactome Pathway](http://bioconductor.org/packages/ReactomePA)
-[clusterProfiler](http://bioconductor.org/packages/clusterProfiler)
+[Disease Ontology](http://bioconductor.org/packages/DOSE)<br/>
+[Reactome Pathway](http://bioconductor.org/packages/ReactomePA)<br/>
+[clusterProfiler](http://bioconductor.org/packages/clusterProfiler)<br/>
 
 For further information, please refer to:<br/>
 G Yu, LG Wang, QY He. ChIPseeker: an R/Bioconductor package for ChIP peak annotation, comparison and visualization. Bioinformatics 2015, 31(14):2382-2383<br/>
