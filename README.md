@@ -23,12 +23,34 @@ Summarize & visualize important information about the peaks<br/>
 Annotate the peaks with gene ID as well as genomic location<br/>
 Carry out functional enrichment analysis on the peaks<br/>
 
+* [R script for analysis](https://github.com/Nur-Taz/ChIPseeker-Analysis-of-ChIP-seq-data-in-R/blob/master/Analysis_example_ChIPseeker.R)
+* [PDF of analysis file with outputs](https://github.com/Nur-Taz/ChIPseeker-Analysis-of-ChIP-seq-data-in-R/blob/master/ChIPseeker_analysis_GSE108150.pdf)
+
+### Important packages from Bioconductor
+
+#### Genome wide annotation packages
+
+[Human: org.Hs.eg.db](https://bioconductor.org/packages/3.10/data/annotation/html/org.Hs.eg.db.html)
+[Mouse: org.Mm.eg.db](https://bioconductor.org/packages/3.10/data/annotation/html/org.Mm.eg.db.html)
+
+#### Annotation package for TxDb object
+
+[Human hg19 known genes](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Hsapiens.UCSC.hg19.knownGene.html)
+[Human hg19 linc RNAs](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts.html)
+[Mouse mm10 Ensembl genes](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Mmusculus.UCSC.mm10.ensGene.html)
+[Mouse mm10 known genes](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Mmusculus.UCSC.mm10.knownGene.html)
+
+#### Functional enrichment analysis
+
+[Disease Ontology](http://bioconductor.org/packages/DOSE)
+[Reactome Pathway](http://bioconductor.org/packages/ReactomePA)
+[clusterProfiler](http://bioconductor.org/packages/clusterProfiler)
+
 For further information, please refer to:<br/>
 G Yu, LG Wang, QY He. ChIPseeker: an R/Bioconductor package for ChIP peak annotation, comparison and visualization. Bioinformatics 2015, 31(14):2382-2383<br/>
 [Link to paper](http://dx.doi.org/10.1093/bioinformatics/btv145)<br/>
 [Link to vignette](https://bioconductor.org/packages/release/bioc/vignettes/ChIPseeker/inst/doc/ChIPseeker.html#session-information)
 
-* [R script for analysis](https://github.com/Nur-Taz/ChIPseeker-Analysis-of-ChIP-seq-data-in-R/blob/master/Analysis_example_ChIPseeker.R)
-* [PDF of analysis file with outputs](https://github.com/Nur-Taz/ChIPseeker-Analysis-of-ChIP-seq-data-in-R/blob/master/ChIPseeker_analysis_GSE108150.pdf)
+
 
 
