@@ -35,7 +35,7 @@ Carry out functional enrichment analysis on the peaks<br/>
 
 #### Annotation package for TxDb object
 
-[Human hg38 known genes](http://www.bioconductor.org/packages/release/data/annotation/html/TxDb.Hsapiens.UCSC.hg38.knownGene.html)
+[Human hg38 known genes](http://www.bioconductor.org/packages/release/data/annotation/html/TxDb.Hsapiens.UCSC.hg38.knownGene.html) <br/>
 [Human hg19 known genes](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Hsapiens.UCSC.hg19.knownGene.html)<br/>
 [Human hg19 linc RNAs](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts.html)<br/>
 [Mouse mm10 Ensembl genes](http://bioconductor.org/packages/3.10/data/annotation/html/TxDb.Mmusculus.UCSC.mm10.ensGene.html)<br/>
